@@ -2,3 +2,4 @@ flask
 transformers
 torch
 faiss-cpu
+PyMuPDF
